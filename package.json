@@ -1,5 +1,5 @@
 {
-  "name": "keastone",
+  "name": "seat-no-generator",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -12,6 +12,7 @@
   },
   "scripts": {
     "start": "parcel src/index.html",
+    "start2": "parcel src/second.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
